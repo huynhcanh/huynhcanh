@@ -20,7 +20,7 @@ hi, i'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 your email: huynhngoccanh3010@gmail.com
+- 💼 my email: huynhngoccanh3010@gmail.com
 - 💬 ask me about anything
 
 **languages and tools:**  
@@ -60,12 +60,6 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 
 <!-- TODO-IST:END -->
-
-
-📈 **my github stats:**  
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 
 
 
