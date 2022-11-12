@@ -14,7 +14,7 @@
 
 <br />
 
-hi, i'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), a backend web developer and a lecturer with 2 years of experience teaching programming recently. My passion for software lies with dreaming up ideas and turn it into a practical application. I take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), a backend web developer and a lecturer with 3 years of experience teaching programming recently. My passion for software lies with dreaming up ideas and turn it into a practical application. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
