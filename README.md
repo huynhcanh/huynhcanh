@@ -2,9 +2,6 @@
 <a href="https://www.instagram.com/huynhf.canhr/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.com/channels/763835785530441779/770636840579104779">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.facebook.com/profile.php?id=100017301409184">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png" />
 </a>
