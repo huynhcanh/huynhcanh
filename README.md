@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/huynhf.canhr/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,16 +11,16 @@
 
 <br />
 
-hi, i'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), a backend Java web developer and a lecturer with 3 years of experience teaching programming recently. My passion for software lies with dreaming up ideas and turn it into a practical application. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), a Backend Java Developer with more than 2 years of experience to date. My passion for software lies with dreaming up ideas and turn it into a practical application. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 my email: huynhngoccanh3010@gmail.com
-- 💬 ask me about anything
+- 💼 My email: huynhngoccanh3010@gmail.com
+- 💬 Ask me about anything
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://namcoi.com/wp-content/uploads/2019/09/html-css-js.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -43,7 +43,7 @@ hi, i'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184
 <code><img height="20" src="https://timoday.edu.vn/wp-content/uploads/2019/12/Postman.png"></code>
 
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
