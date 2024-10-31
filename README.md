@@ -30,7 +30,7 @@ Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184
 <code><img height="20" src="https://banner2.cleanpng.com/20180328/dcw/avjstgex3.webp"></code>
 
 <code><img height="20" src="http://2.bp.blogspot.com/-OY1kNlSRYuE/T9wyJx3pggI/AAAAAAAAA94/xIfuzk9kI4s/s1600/Dev-C++.jpg"></code>
-<code><img height="20" src="https://forumchiase.com/wp-content/uploads/2021/04/VisualStudio2022-1000x600.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"></code>
 <code><img height="20" src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATCRivkyKDL0G_1tq7zikQcnw4UInvfajQg&usqp=CAU"></code>
 <code><img height="20" src="https://stackjava.com/wp-content/uploads/2017/12/spring-logo.png"></code>
