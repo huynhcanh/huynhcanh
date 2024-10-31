@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), I'm a Java Backend Developer with a strong foundation in designing and optimizing server-side applications. I specialize in creating scalable systems that support seamless user experiences, with a focus on performance, security, and maintainability. My approach balances technical depth with creativity, and I’m constantly exploring new technologies to deliver the best solutions.
+Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), I'm a Java Developer with a strong foundation in designing and optimizing server-side applications. I specialize in creating scalable systems that support seamless user experiences, with a focus on performance, security, and maintainability. My approach balances technical depth with creativity, and I’m constantly exploring new technologies to deliver the best solutions.
 
 
 
