@@ -24,10 +24,10 @@ Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184
 
 <code><img height="20" src="https://namcoi.com/wp-content/uploads/2019/09/html-css-js.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/04a35d31f6bf8c1b6d5f51b6f7e4b7f9a0c008f8/topics/csharp/csharp.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="http://itplus-academy.edu.vn/upload/c47d9c29fc44c2b7996a2613aec3c1f9/files/writer1/jv.jpg"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180328/dcw/avjstgex3.webp"></code>
 
 <code><img height="20" src="http://2.bp.blogspot.com/-OY1kNlSRYuE/T9wyJx3pggI/AAAAAAAAA94/xIfuzk9kI4s/s1600/Dev-C++.jpg"></code>
 <code><img height="20" src="https://forumchiase.com/wp-content/uploads/2021/04/VisualStudio2022-1000x600.jpg"></code>
