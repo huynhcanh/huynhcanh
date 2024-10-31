@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), a Backend Java Developer with more than 2 years of experience to date. My passion for software lies with dreaming up ideas and turn it into a practical application. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184), a strong foundation in designing and optimizing server-side applications. I specialize in creating scalable systems that support seamless user experiences, with a focus on performance, security, and maintainability. My approach balances technical depth with creativity, and I’m constantly exploring new technologies to deliver the best solutions.
 
 
 
@@ -24,6 +24,7 @@ Hi, I'm [Huỳnh Cảnh](https://www.facebook.com/profile.php?id=100017301409184
 
 <code><img height="20" src="https://namcoi.com/wp-content/uploads/2019/09/html-css-js.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/04a35d31f6bf8c1b6d5f51b6f7e4b7f9a0c008f8/topics/csharp/csharp.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="http://itplus-academy.edu.vn/upload/c47d9c29fc44c2b7996a2613aec3c1f9/files/writer1/jv.jpg"></code>
